@@ -1,0 +1,30 @@
+body{
+    background-color: beige;
+}
+header{
+    padding: 25px;
+    background-color: coral;
+    text-align: center;
+    margin-top: 25px;
+    margin-inline: 300px;
+}
+img{
+    display: block;
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+    padding-inline: 25%;
+}
+footer{
+    padding: 25px;
+    background-color: burlywood;
+    text-align: center;
+    height: 25px;
+    margin-inline: 300px;
+}
+section{
+    padding: 25px;
+    margin-block: 25px;
+    margin-inline: 300px;
+    background-color: darksalmon;
+}
